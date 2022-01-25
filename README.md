@@ -23,8 +23,10 @@ This is an assignment for the Udacity Data Scientist nano degree program.
 Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data is from 2009-2016. 
 
 ## File Descriptions<a name="descriptions"></a> 
-- SP_dsnano_BostonAirbnb.ipynb - notebook containing CRISP-DM process flow and other details 
-- Boston_listings.csv - file downloaded from Kaggle containing Airbnb listing data (NOTE: file renamed from listings.csv to boston_listings.csv)
+- Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
+- Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
+- Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
+- Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
 
 ## Results<a name="results"></a> 
 - A business explanation of the results can be found on Medium: https://medium.com/@scott.m.pena/a-little-data-science-can-go-a-long-way-3e4c696e08d5
