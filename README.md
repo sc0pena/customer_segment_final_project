@@ -12,7 +12,7 @@
 Libraries used found in the Anaconda distribution of Python. This code works with Python version 3.
 
 ## Project Overview<a name="overview"></a>
-Identify customer segments for a mail order company selling organic products in Germany using unsupervised machine learning. Predict individuals likely to become a customer using supervised machine learning There are 4 data sets with anonymized demographic info provided by Arvato Financial Solutions: 
+Identify customer segments for a mail order company selling organic products in Germany using unsupervised machine learning. Predict individuals likely to become a new customer using unsupervised and supervised machine learning models. There are 4 data sets with anonymized demographic info provided by Arvato Financial Solutions: 
 - Germany population demographics with 366 features (891,211 individuals)
 - Existing mail order customer demographics with 366 features (191,652 individuals)
 - Demographics for individuals targeted in a 2018 mail order campaign, including success/failure to onboard (42,982 individuals)
