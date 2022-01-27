@@ -23,8 +23,12 @@ This is an assignment for the Udacity Data Scientist nano degree program.
 Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data is from 2009-2016. 
 
 ## File Descriptions<a name="descriptions"></a> 
+- Arvato Project Workbook.ipynb: Project notebook
+- df_final_pred_kaggle.csv: output file with predicted new customers (Kaggle competition file)
 - Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
+- Udacity_AZDIAS_fin.csv: 30% of Demographics data for the general population of Germany; 267 366 persons (rows) x 357 features (columns).
 - Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
+- Udacity_cust_fin.csv: 30% of Demographics data for customers of a mail-order company; 57 496 persons (rows) x 360 features (columns).
 - Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
 - Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
 
