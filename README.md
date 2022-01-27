@@ -20,7 +20,6 @@ Identify customer segments for a mail order company selling organic products in 
 
 ## Background<a name="background"></a> 
 This is an assignment for the Udacity Data Scientist nano degree program. 
-Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data is from 2009-2016. 
 
 ## File Descriptions<a name="descriptions"></a> 
 - DIAS Attributes - Values 2017.xlsx: Demographic values data dictionary(1)
