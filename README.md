@@ -23,6 +23,8 @@ This is an assignment for the Udacity Data Scientist nano degree program.
 Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data is from 2009-2016. 
 
 ## File Descriptions<a name="descriptions"></a> 
+- DIAS Attributes - Values 2017.xlsx: Demographic values data dictionary(1)
+- DIAS Information Levels - Attributes 2017.xlsx: Demographic values data dictionary(2)
 - Arvato Project Workbook.ipynb: Project notebook
 - df_final_pred_kaggle.csv: output file with predicted new customers (Kaggle competition file)
 - Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
