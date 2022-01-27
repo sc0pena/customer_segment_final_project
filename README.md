@@ -35,7 +35,7 @@ Listing data collected from Kaggle (https://www.kaggle.com/airbnb/boston). Data 
 - Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
 
 ## Results<a name="results"></a> 
-- A business explanation of the results can be found on Medium: https://medium.com/@scott.m.pena/a-little-data-science-can-go-a-long-way-3e4c696e08d5
+- A business explanation of the results can be found on Medium: https://medium.com/@scott.m.pena/using-data-science-to-predict-and-increase-new-mail-order-customers-a8fb6d6e90fd
 - CRISP-DM process flow, coding, and technical notation found within the Jupyter notebook
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a> 
